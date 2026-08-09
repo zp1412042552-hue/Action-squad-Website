@@ -1,6 +1,6 @@
 # Action Squad website
 
-Official public website and policy pages for **Action Squad** by Jim_studio_A.
+Official public website and policy pages for **Action Squad** by JimStudio, published under the ZP Games brand.
 
 - Home: `index.html`
 - Privacy policy: `privacy-policy.html`
